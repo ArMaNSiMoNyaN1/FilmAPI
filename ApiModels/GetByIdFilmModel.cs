@@ -6,4 +6,4 @@ public class GetByIdFilmModel
     public string Title { get; set; }
     public int PublishYear { get; set; }
     public string Genre { get; set; }
-}
+}   

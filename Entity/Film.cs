@@ -7,5 +7,5 @@ public class Film
     public string Director { get; set; }
     public int PublishYear { get; set; }
     public string Genre { get; set; }
-    public List<Actors> actors;
+    public List<Actors> Actors { get; set; } = new List<Actors>();
 }
